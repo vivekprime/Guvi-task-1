@@ -1,0 +1,10 @@
+For registeration, the mail should pass the following criteria-
+1. the email should have '@' and followed by '.'
+2. The mail should not start with '@' or any special characters or numbers.
+3. There should not be any '.' immediate next to '@'.
+
+The password should pass the following criteria-
+1. It must have minimum one special character,
+2. One digit,
+3. One uppercase,
+4. One lowercase character.
